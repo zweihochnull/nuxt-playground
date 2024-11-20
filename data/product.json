@@ -1,0 +1,407 @@
+{
+  "skuId": "8214306",
+  "skuUrl": "kunsttanne-nagano-mit-kunstschnee-115-cm-x-210-cm-weiss",
+  "prettyUrl": "https://www.obi.de/p/8214306/kunsttanne-nagano-mit-kunstschnee-115-cm-x-210-cm-weiss",
+  "categoryId": "1732",
+  "categoryName": "Künstliche Weihnachtsbäume",
+  "categoryUrl": "/weihnachten/kuenstliche-weihnachtsbaeume/c/1732",
+  "productTitle": "Kunsttanne Nagano mit Kunstschnee Ø 115 cm x 210 cm Weiß",
+  "productTitleTab": "Kunsttanne Nagano mit Kunstschnee Ø 115 cm x 210 cm Weiß kaufen bei OBI",
+  "productOverview": [
+      "Aus Kunststoff",
+      "Mit Metallständer",
+      "Mit Kunstschnee",
+      "Ideale Weihnachtsdekoration"
+  ],
+  "productDescription": "<p>Die Weihnachtstanne Nagano ist aus Kunststoff gefertigt und hat eine Größe von Ø 115 cm x 210 cm. Der Kunstschnee sorgt für eine außergewöhnliche Weihnachtsstimmung. Mithilfe des Ständers lässt sich die Tanne einfach in jedem Raum aufstellen.</p>",
+  "technicalData": {
+      "productDetails": [
+          {
+              "key": "Beleuchtung",
+              "value": "Ohne Beleuchtung"
+          },
+          {
+              "key": "Material",
+              "value": "PE"
+          },
+          {
+              "key": "Anzahl Schichten (Stück)",
+              "value": "9 Stück"
+          },
+          {
+              "key": "Durchmesser untere Lage (cm)",
+              "value": "115 cm"
+          },
+          {
+              "key": "Durchmesser Ständer (cm)",
+              "value": "61 cm"
+          },
+          {
+              "key": "Material Ständer",
+              "value": "Metall"
+          },
+          {
+              "key": "Art Ständer",
+              "value": "Kreuzstück"
+          },
+          {
+              "key": "Anzahl Zweige (Stück)",
+              "value": "60 Stück"
+          },
+          {
+              "key": "Kunstschnee",
+              "value": "mit Kunstschneeoptik"
+          }
+      ],
+      "dimensionsAndWeight": [
+          {
+              "key": "Gewicht",
+              "value": "8,2 kg"
+          },
+          {
+              "key": "Höhe",
+              "value": "2,10 m"
+          },
+          {
+              "key": "Breite",
+              "value": "115,0 cm"
+          },
+          {
+              "key": "Tiefe",
+              "value": "115,0 cm"
+          }
+      ]
+  },
+  "sellers": [
+      {
+          "sellerId": "1",
+          "sellerName": "OBI E-Commerce GmbH",
+          "deliveryOption": "Paket",
+          "deliveryEstimateDays": 3,
+          "pricing": {
+              "grossPrice": 199.99,
+              "shippingCost": 0
+          },
+          "unitMultiplier": 1,
+          "minQuantity": 1,
+          "maxQuantity": 9999,
+          "stock": 25,
+          "showBulkyDeliveryNote": false,
+          "eligibleForFreeDelivery": false
+      }
+  ],
+  "attachments": [
+      {
+          "title": "Bedienungsanleitung",
+          "url": "https://bilder.obi.de/4eee039a-be78-4640-b8a9-51be9603ffc0/document.pdf",
+          "documentAssetType": "MANUAL_SHEET"
+      }
+  ],
+  "media": [
+      {
+          "type": "image",
+          "alt": "Kunsttanne Nagano mit Kunstschnee Ø 115 cm x 210 cm Weiß",
+          "srcLandscape": "https://bilder.obi.de/a1b2737a-7e3c-4aa1-8980-e723e95d3bbf/prZZD/image.jpeg",
+          "srcPortrait": "https://bilder.obi.de/a1b2737a-7e3c-4aa1-8980-e723e95d3bbf/prZZC/image.jpeg",
+          "srcThumbnail": "https://bilder.obi.de/a1b2737a-7e3c-4aa1-8980-e723e95d3bbf/pr08A/image.jpeg",
+          "srcFullviewSquare": "https://bilder.obi.de/a1b2737a-7e3c-4aa1-8980-e723e95d3bbf/prZZM/image.jpeg",
+          "srcSEO": "https://bilder.obi.de/a1b2737a-7e3c-4aa1-8980-e723e95d3bbf/prZZK/image.jpeg",
+          "srcFullscreen": "https://bilder.obi.de/a1b2737a-7e3c-4aa1-8980-e723e95d3bbf/pr00W/image.jpeg"
+      },
+      {
+          "type": "image",
+          "alt": "Kunsttanne Nagano mit Kunstschnee Ø 115 cm x 210 cm Weiß_2",
+          "srcLandscape": "https://bilder.obi.de/961c9853-cbe3-4ed1-80d5-608b3257089a/prZZD/image.jpeg",
+          "srcPortrait": "https://bilder.obi.de/961c9853-cbe3-4ed1-80d5-608b3257089a/prZZC/image.jpeg",
+          "srcThumbnail": "https://bilder.obi.de/961c9853-cbe3-4ed1-80d5-608b3257089a/pr08A/image.jpeg",
+          "srcFullviewSquare": "https://bilder.obi.de/961c9853-cbe3-4ed1-80d5-608b3257089a/prZZM/image.jpeg",
+          "srcSEO": "https://bilder.obi.de/961c9853-cbe3-4ed1-80d5-608b3257089a/prZZK/image.jpeg",
+          "srcFullscreen": "https://bilder.obi.de/961c9853-cbe3-4ed1-80d5-608b3257089a/pr00W/image.jpeg"
+      }
+  ],
+  "contentLinks": [
+      {
+          "title": "Alles rund um deinen Weihnachtsbaum",
+          "url": "/magazin/wohnen/dekoration/weihnachtsbaum/weihnachtsbaum-tipps"
+      },
+      {
+          "title": "3 Alternativen zum klassischen Weihnachtsbaum",
+          "url": "/magazin/wohnen/dekoration/weihnachtsbaum/weihnachtsbaumalternativen"
+      },
+      {
+          "title": "Weihnachtsbaum kaufen – Tipps",
+          "url": "/magazin/wohnen/dekoration/weihnachtsbaum/weihnachtsbaum-kaufen-tipps"
+      },
+      {
+          "title": "Tannen – Eigenschaften im Überblick",
+          "url": "/magazin/garten/pflanzen/baeume/koniferen/tannen"
+      }
+  ],
+  "rssContentLinks": [
+      {
+          "title": "weihnachtsbaum deko",
+          "url": "/search/weihnachtsbaum%20deko/"
+      },
+      {
+          "title": "zimmerpflanzen plastik",
+          "url": "/search/zimmerpflanzen%20plastik/"
+      },
+      {
+          "title": "künstliche pflanzen",
+          "url": "/search/k%C3%BCnstliche%20pflanzen/"
+      },
+      {
+          "title": "zweige",
+          "url": "/search/zweige/"
+      },
+      {
+          "title": "kunstpflanzen grün",
+          "url": "/search/kunstpflanzen%20gr%C3%BCn/"
+      },
+      {
+          "title": "kranz",
+          "url": "/search/kranz/"
+      },
+      {
+          "title": "christbaumspitze",
+          "url": "/search/christbaumspitze/"
+      },
+      {
+          "title": "baumspitze",
+          "url": "/search/baumspitze/"
+      },
+      {
+          "title": "tannenkranz",
+          "url": "/search/tannenkranz/"
+      },
+      {
+          "title": "led weihnachtsbaum",
+          "url": "/search/led%20weihnachtsbaum/"
+      },
+      {
+          "title": "weihnachtsgirlande",
+          "url": "/search/weihnachtsgirlande/"
+      },
+      {
+          "title": "christbaumbeleuchtung",
+          "url": "/search/christbaumbeleuchtung/"
+      },
+      {
+          "title": "led baum",
+          "url": "/search/led%20baum/"
+      },
+      {
+          "title": "weihnachtsbaumbeleuchtung",
+          "url": "/search/weihnachtsbaumbeleuchtung/"
+      },
+      {
+          "title": "getopfter weihnachtsbaum",
+          "url": "/search/getopfter%20weihnachtsbaum/"
+      },
+      {
+          "title": "tannenbäume",
+          "url": "/search/tannenb%C3%A4ume/"
+      },
+      {
+          "title": "tannenbaum",
+          "url": "/search/tannenbaum/"
+      },
+      {
+          "title": "kunstbaum",
+          "url": "/search/kunstbaum/"
+      },
+      {
+          "title": "tannenbaum künstlich",
+          "url": "/search/tannenbaum%20k%C3%BCnstlich/"
+      },
+      {
+          "title": "kunsttanne",
+          "url": "/search/kunsttanne/"
+      }
+  ],
+  "attributes": [
+      {
+          "name": "Ausführung",
+          "id": "size",
+          "options": [
+              {
+                  "name": "Ø 108 cm x 180 cm",
+                  "id": "Ø 108 cm x 180 cm"
+              },
+              {
+                  "name": "Ø 115 cm x 210 cm",
+                  "id": "Ø 115 cm x 210 cm"
+              }
+          ]
+      }
+  ],
+  "attributeCombinations": [
+      {
+          "skuId": "8213993",
+          "path": "/p/8213993/kunsttanne-nagano-mit-kunstschnee-108-cm-x-180-cm-weiss",
+          "size": "Ø 108 cm x 180 cm"
+      },
+      {
+          "skuId": "8214306",
+          "path": "/p/8214306/kunsttanne-nagano-mit-kunstschnee-115-cm-x-210-cm-weiss",
+          "size": "Ø 115 cm x 210 cm"
+      }
+  ],
+  "categoryTree": {
+      "seoSnippet": "<div><script type=\"application/ld+json\">{\"@type\":\"BreadcrumbList\",\"@context\":\"http://schema.org\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"item\":{\"name\":\"Garten & Freizeit\",\"@id\":\"https://www.obi.de/garten-freizeit/c/860\"}},{\"@type\":\"ListItem\",\"position\":2,\"item\":{\"name\":\"Weihnachten\",\"@id\":\"https://www.obi.de/garten-freizeit/weihnachten/c/806\"}},{\"@type\":\"ListItem\",\"position\":3,\"item\":{\"name\":\"Künstliche Weihnachtsbäume\",\"@id\":\"https://www.obi.de/weihnachten/kuenstliche-weihnachtsbaeume/c/1732\"}}]}</script></div>",
+      "categoryLinks": [
+          {
+              "title": "Garten & Freizeit",
+              "url": "/garten-freizeit/c/860",
+              "id": "860"
+          },
+          {
+              "title": "Weihnachten",
+              "url": "/garten-freizeit/weihnachten/c/806",
+              "id": "806"
+          },
+          {
+              "title": "Künstliche Weihnachtsbäume",
+              "url": "/weihnachten/kuenstliche-weihnachtsbaeume/c/1732",
+              "id": "1732"
+          }
+      ],
+      "categorySiblings": [
+          {
+              "title": "Weihnachtsdekoration",
+              "url": "/weihnachten/weihnachtsdekoration/c/1842",
+              "id": "1842"
+          },
+          {
+              "title": "Baumschmuck",
+              "url": "/weihnachten/baumschmuck/c/1719",
+              "id": "1719"
+          },
+          {
+              "title": "Krippen",
+              "url": "/weihnachten/krippen/c/1846",
+              "id": "1846"
+          },
+          {
+              "title": "Künstliche Weihnachtsbäume",
+              "url": "/weihnachten/kuenstliche-weihnachtsbaeume/c/1732",
+              "id": "1732"
+          },
+          {
+              "title": "Weihnachtsbäume",
+              "url": "/weihnachten/weihnachtsbaeume/c/1919",
+              "id": "1919"
+          },
+          {
+              "title": "Christbaumständer",
+              "url": "/weihnachten/christbaumstaender/c/1689",
+              "id": "1689"
+          },
+          {
+              "title": "Girlanden & Kunstkränze",
+              "url": "/weihnachten/girlanden-kunstkraenze/c/1731",
+              "id": "1731"
+          },
+          {
+              "title": "Weihnachtsbeleuchtung",
+              "url": "/weihnachten/weihnachtsbeleuchtung/c/2089",
+              "id": "2089"
+          }
+      ]
+  },
+  "links": [
+      {
+          "rel": "canonical",
+          "href": "https://www.obi.de/p/8214306/kunsttanne-nagano-mit-kunstschnee-115-cm-x-210-cm-weiss"
+      },
+      {
+          "rel": "prettyUrl",
+          "href": "https://www.obi.de/p/8214306/kunsttanne-nagano-mit-kunstschnee-115-cm-x-210-cm-weiss"
+      }
+  ],
+  "metas": [
+      {
+          "name": "robots",
+          "content": "index,follow"
+      },
+      {
+          "name": "description",
+          "content": "Kunsttanne Nagano mit Kunstschnee Ø 115 cm x 210 cm Weiß ➜  bei OBI kaufen! OBI Baumarkt & Online-Shop"
+      }
+  ],
+  "store": {
+      "information": {
+          "storeId": "172",
+          "name": "OBI Markt Köln-Dellbrück",
+          "address": {
+              "postalCode": "51067"
+          }
+      },
+      "articleData": {
+          "storeShippingSpeed": "",
+          "stock": 3,
+          "pricing": {
+              "grossPrice": 199.99,
+              "shippingCost": 0,
+              "isBulkPrice": false
+          },
+          "maxQuantity": 9007199254740991,
+          "minQuantity": 1,
+          "unitMultiplier": 1
+      }
+  },
+  "disposalNotesFlags": {
+      "showDeviceCollectionInfo": false,
+      "showDeviceDisposalInfo": false,
+      "showDeviceBatteryInfo": false,
+      "showFoamDisposalInfo": false
+  },
+  "isLoggedInHeyObiUser": false,
+  "promotionInformation": {
+      "type": "NONE",
+      "from": "01.11.2024",
+      "to": "30.11.2024"
+  },
+  "currencyCode": "EUR",
+  "buyboxStates": {
+      "homeDeliveryAvailable": true,
+      "reserveAndCollectAvailable": true,
+      "availableButNotReservable": false,
+      "isDeal": false,
+      "roPo": {
+          "showMainSection": true,
+          "showAvailability": true,
+          "available": true,
+          "showExactStock": true,
+          "showStoreSelectionLink": false,
+          "showAltStoreSelectionLink": true,
+          "fetchAvailableNearbyStore": false,
+          "orderableInStore": false,
+          "orderableInStoreHomeDelivery": false
+      }
+  },
+  "fallbackPricing": {
+      "grossPrice": 199.99,
+      "shippingCost": 0
+  },
+  "showCalculator": false,
+  "promotionBadges": [],
+  "articleEanEcms": [
+      4048125768371
+  ],
+  "color": "Weiß",
+  "netWidth": 1150,
+  "netHeight": 2100,
+  "netWeight": 8.2,
+  "netDepth": 1150,
+  "variantGroupId": "49ae5ab6-a12a-4dd3-8f64-82cdbe69ea8b",
+  "retailUnitInfo": {
+      "retailUnitId": "0",
+      "label": null,
+      "stockLabel": "Artikel",
+      "currencyModifier": null,
+      "showStockDisclaimer": false
+  },
+  "tax": 19,
+  "isApplicableForUseCaseReco": true
+}
